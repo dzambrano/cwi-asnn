@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "Adaptive Spiking Neural Networks (AdSNN)"
+authors:
+  - family-names: Zambrano
+    given-names: Davide
+  - family-names: Nusselder
+    given-names: Roeland
+  - family-names: Scholte
+    given-names: H. Steven
+  - family-names: Bohté
+    given-names: Sander M.
+license: MIT
+preferred-citation:
+  type: article
+  title: "Sparse Computation in Adaptive Spiking Neural Networks"
+  authors:
+    - family-names: Zambrano
+      given-names: Davide
+    - family-names: Nusselder
+      given-names: Roeland
+    - family-names: Scholte
+      given-names: H. Steven
+    - family-names: Bohté
+      given-names: Sander M.
+  journal: "Frontiers in Neuroscience"
+  volume: 12
+  start: 987
+  year: 2019
+  doi: "10.3389/fnins.2018.00987"

@@ -1,0 +1,5 @@
+#!/bin/bash
+for i in {1..10}
+  do
+    matlab -nodisplay -nodesktop -r "asn_imagenet_arousal($i)" #>output$i 2>&1
+  done

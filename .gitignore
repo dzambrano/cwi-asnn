@@ -1,0 +1,8 @@
+.DS_Store
+# datasets, trained models and experiment outputs
+matconvnet-1.0-beta22/data/
+*.h5
+# MatConvNet build products
+matconvnet-1.0-beta22/matlab/mex/
+*.mex*
+*.o
